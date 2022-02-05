@@ -34,8 +34,8 @@
 
 
 <p align = "center">
-<img  src="https://github-readme-stats.vercel.app/api?username=WngYilei&show_icons=true&theme=radical" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WngYilei&show_icons=true&locale=en&layout=compact&theme=radical&line_height=26" />
+<img  src="https://github-readme-stats.vercel.app/api?username=WngYilei&show_icons=true&theme=radical" width="400" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WngYilei&show_icons=true&locale=en&layout=compact&theme=radical&line_height=26" width="400" />
 </p>
  
 <p align = "center">
