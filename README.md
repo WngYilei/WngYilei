@@ -23,29 +23,14 @@
 </p>
 
 
-- 🔭 一名Android开发菜鸟
+- 🔭 Android开发工程师一枚
 - 🌱 致力于Android技术分享
 - 👯 一起学习，一起进步
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🤔 欢迎 start！！！ 
 
 <p align = "center">
 <img  src="https://github-readme-stats.vercel.app/api?username=WngYilei&show_icons=true&theme=radical" width="49%" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=WngYilei&show_icons=true&locale=en&layout=compact&theme=radical&line_height=26" width="49%" />
-</p>
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=WngYilei&theme=redical">
+<img  width="49%" />
 </p>
 
 
-# 联系方式
-
-<p align = "center">
- <img src="https://user-images.githubusercontent.com/33646116/152627388-645a7681-7440-4f97-a29b-dea29f370219.png">
- <img src="https://user-images.githubusercontent.com/33646116/152631365-df0f2d09-2b9c-48fa-9803-0a9a2fe3d7e8.jpg" height="400" width="400">
-</p>
